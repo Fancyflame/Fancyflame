@@ -11,11 +11,7 @@ Welcome!👋
 
 ## My repositories
 
-<p style="
-    font-size:1.4em;
-    font-weight:bold;
-    transform: translate(300px,98px)rotate(6deg)translate(-100px);
-">
+<p style="font-size:1.4em;font-weight:bold;transform: translate(300px,98px)rotate(6deg)translate(-100px);">
 (By the way, CSS is FUN!)
 </p>
 
