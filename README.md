@@ -40,6 +40,15 @@
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/fancyflame/face-recognize-sign-in-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fancyflame&repo=face-recognize-sign-in-system"></a>
+        </td>
+        <td>
+            <b>基于AI模型的教室群体人脸签到系统设计</b><br>
+            这是我在大学的毕业设计。教师可以通过打开一个Web页面，开始录制后围绕教室走动拍摄人脸，软件将把取景框内多个人脸进行实时识别和标记，录制结束后退回签到教室界面可查看签到情况。该软件包含前端和后端两个部分，前端使用Rsbuild+TSX+React+Less，后端使用Rust+SQLite，通信协议为grpc-web。以此项目展示我的全栈开发能力。
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/fancyflame/mcsh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fancyflame&repo=mcsh"></a>
         </td>
         <td>
